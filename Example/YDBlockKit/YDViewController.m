@@ -7,6 +7,7 @@
 //
 
 #import "YDViewController.h"
+#import <YDBlockKit/BlocksKit.h>
 
 @interface YDViewController ()
 
