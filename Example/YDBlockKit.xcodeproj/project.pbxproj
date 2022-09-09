@@ -110,6 +110,8 @@
 		1522554828B25D3E00ED20FC /* NSObject+A2DynamicDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "NSObject+A2DynamicDelegate.m"; sourceTree = "<group>"; };
 		1522554928B25D3E00ED20FC /* NSObject+A2BlockDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSObject+A2BlockDelegate.h"; sourceTree = "<group>"; };
 		1522554A28B25D3E00ED20FC /* BKDefines.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BKDefines.h; sourceTree = "<group>"; };
+		159DAD2928CB2C0E0006B8D0 /* NSObject+YDAsyncBlock.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSObject+YDAsyncBlock.h"; sourceTree = "<group>"; };
+		159DAD2A28CB2C0E0006B8D0 /* NSObject+YDAsyncBlock.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "NSObject+YDAsyncBlock.m"; sourceTree = "<group>"; };
 		3234550A699FB83495E5326A /* Pods_YDBlockKit_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_YDBlockKit_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		589B7A8F726F9014021D0088 /* YDBlockKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = YDBlockKit.podspec; path = ../YDBlockKit.podspec; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* YDBlockKit_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YDBlockKit_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -226,6 +228,8 @@
 				1522552028B25D3E00ED20FC /* NSMutableOrderedSet+BlocksKit.h */,
 				1522552128B25D3E00ED20FC /* NSMutableDictionary+BlocksKit.m */,
 				1522552228B25D3E00ED20FC /* NSMutableSet+BlocksKit.m */,
+				159DAD2928CB2C0E0006B8D0 /* NSObject+YDAsyncBlock.h */,
+				159DAD2A28CB2C0E0006B8D0 /* NSObject+YDAsyncBlock.m */,
 			);
 			path = Core;
 			sourceTree = "<group>";
